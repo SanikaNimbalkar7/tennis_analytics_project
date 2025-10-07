@@ -1,0 +1,10 @@
+{
+  "categories": [
+    {"id": 1, "name": "ITF Men"},
+    {"id": 2, "name": "ITF Women"}
+  ],
+  "competitions": [
+    {"id": 101, "name": "Australian Open", "category_id": 1, "type": "singles", "gender": "M"},
+    {"id": 102, "name": "Wimbledon", "category_id": 2, "type": "doubles", "gender": "F"}
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "competitors": [
+    {"id": 301, "name": "Player A", "country": "Australia", "country_code": "AUS"},
+    {"id": 302, "name": "Player B", "country": "UK", "country_code": "GBR"}
+  ],
+  "rankings": [
+    {"competitor_id": 301, "rank": 1, "movement": 0, "points": 2000},
+    {"competitor_id": 302, "rank": 2, "movement": -1, "points": 1800}
+  ]
+}
